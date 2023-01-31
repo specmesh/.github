@@ -1,2 +1,3 @@
 # .github
-Public profile for Spec Mesh 
+
+Organisational repo for Spec Mesh 

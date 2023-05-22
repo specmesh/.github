@@ -3,6 +3,7 @@
 <p align="center" style="font-size:20px"> 
     <b>Specification Driven Data Mesh</b>
 </p>
-<p align="center"> 
-     <b>Actively looking for contributors</b><br/><br/>
-</p>
+
+
+
+[SpecMesh.io](https://specmesh.io/) | [Wiki](https://github.com/specmesh/docs/wiki) |  [Technical docs and source code](https://github.com/specmesh/specmesh-build)

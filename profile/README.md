@@ -4,7 +4,7 @@
     <b>Specification Driven Data Mesh</b>
 </p>
 
-Enterprise Apache Kafka using AsyncAPI specs to build data mesh with GitOps
+Enterprise Apache Kafka using AsyncAPI specs to build Data Mesh with GitOps
 
 
 [SpecMesh.io](https://specmesh.io/) | [Wiki](https://github.com/specmesh/docs/wiki) |  [Technical docs and source code](https://github.com/specmesh/specmesh-build)
